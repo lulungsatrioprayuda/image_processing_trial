@@ -1,0 +1,2 @@
+0 Bad Air Quality 
+1 Good Air Quality
